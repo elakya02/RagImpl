@@ -1,0 +1,11 @@
+[project]
+name = "ragimpl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "docling>=2.60.0",
+    "sentence-transformers>=5.1.2",
+    "streamlit>=1.51.0",
+]
